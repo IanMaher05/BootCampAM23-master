@@ -27,6 +27,7 @@ namespace BootCampAM23
             location[5, 5] = new Location("Home", "You see a glowing red stone that looks comfortable to sit upon.", 0);
             location[4, 4] = new Location("Treasure Room", "You see golden goblets and silver daggars. You hear a deep rumbling groan.", 3);
             location[1, 6] = new Location("Mount Olympus", "You climb a steep path and find a platimum throne.", 1);
+            location[4, 3] = new Location("The Cave", "You enter a pitch black cave, be carful!", 2);
 
             //Set the player location...
             int pX = 5;
