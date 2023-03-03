@@ -19,6 +19,7 @@ namespace BootCampAM23
             monster[2] = new Player(2, "Aracanos", 7);
             monster[3] = new Player(3, "Gregggor the Small Giant", 100);
             monster[4] = new Player(4, "Frida the Fearless", 42);
+            monster[5] = new Player(5, "CaveBot 101", 15);
 
             //Dealing with the world...
             int maxX = 11;
